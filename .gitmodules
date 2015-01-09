@@ -1,0 +1,15 @@
+[submodule "embedded_components/computer"]
+	path = embedded_components/computer
+	url = https://gist.github.com/f4b211aa231097953ad9.git
+[submodule "embedded_components/controller"]
+	path = embedded_components/controller
+	url = https://gist.github.com/a396f5fd8161548c4f87.git
+[submodule "embedded_components/speaker"]
+	path = embedded_components/speaker
+	url = https://gist.github.com/cd0df6aa8d19c5701f0a.git
+[submodule "embedded_components/camera"]
+	path = embedded_components/camera
+	url = https://gist.github.com/b2f4e896bee72f8bc75d.git
+[submodule "embedded_components/display"]
+	path = embedded_components/display
+	url = https://gist.github.com/f25c316ded61317b2235.git
