@@ -1,12 +1,16 @@
 [submodule "embedded_components/computer"]
 	path = embedded_components/computer
 	url = https://gist.github.com/f4b211aa231097953ad9.git
+	branch = master
 [submodule "embedded_components/controller"]
 	path = embedded_components/controller
 	url = https://gist.github.com/a396f5fd8161548c4f87.git
+	branch = master
 [submodule "embedded_components/speaker"]
 	path = embedded_components/speaker
 	url = https://gist.github.com/cd0df6aa8d19c5701f0a.git
+	branch = master
 [submodule "embedded_components/camera"]
 	path = embedded_components/camera
 	url = https://gist.github.com/b2f4e896bee72f8bc75d.git
+	branch = master
