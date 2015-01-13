@@ -10,6 +10,3 @@
 [submodule "embedded_components/camera"]
 	path = embedded_components/camera
 	url = https://gist.github.com/b2f4e896bee72f8bc75d.git
-[submodule "embedded_components/display"]
-	path = embedded_components/display
-	url = https://gist.github.com/f25c316ded61317b2235.git
