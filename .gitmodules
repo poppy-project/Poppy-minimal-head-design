@@ -14,3 +14,7 @@
 	path = embedded_components/camera
 	url = https://gist.github.com/b2f4e896bee72f8bc75d.git
 	branch = master
+[submodule "embedded_components/display"]
+	path = embedded_components/display
+	url = https://gist.github.com/5c22842eb3abc8b4a68a.git
+	branch = master
