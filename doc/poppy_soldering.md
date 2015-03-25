@@ -73,6 +73,11 @@ You will need:
 
 
 ### Speakers
-![](img/speaker_etaimage.jpg)
+You will need:
+- 2x15cm of **Black/red cable**
+- **Two speakers**
+- **Large heat shrink**  
+1) Strip and foliate the 2 sides of your **Black/red cable**
+![](img/speaker_etaimage.jpg)  
+2) Soldering it on your **Two speakers**  
 ![](img/speaker_soldering.jpg)
-![](img/speaker_amp_assembly.jpg)
