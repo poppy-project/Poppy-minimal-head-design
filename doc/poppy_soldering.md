@@ -57,7 +57,17 @@ You will need:
 
 
 ### Solder components on the Adafruit stereo amplifier
-![](img/borniers.jpg)
+You will need:
+- **Screw terminal connector 2P**
+- **Screw terminal connector 4P**
+- **Audio amplifier**
+
+1) Cut the two plasic pin of the **Screw terminal connector 2P**
+![](img/borniers.jpg)  
+2) Soldering Blue screw terminal and 2x4p header given with the **Audio amplifier** kit.  
+3) Soldering **Screw terminal connector 2P** on *VDD* and *GND* pins.  
+4) Soldering **Screw terminal connector 4P** on *L+*, *L-*, *R+*, and *R-* pins.  
+
 ![](img/adafruit_amp_front.jpg)
 ![](img/adafruit_amp_back.jpg)
 
