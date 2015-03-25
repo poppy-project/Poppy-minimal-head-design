@@ -24,7 +24,7 @@ You will need:
 
 ## Power Supply
 You will need:
-- 30cm of **Black/red cable**
+- 30cm of **black/red cable**
 - two **contact crimping**
 - a **molex connector 4P**
 - **Ubec**
@@ -38,7 +38,6 @@ You will need:
 ![](img/input_power_Molex_4P.jpg)  
 5) Soldering the other side to the black and red cables of your **UBEC**. Do not forget to use 2 parts of **Small heat shrink** for each wire (black and red) and a **Large heat shrink** above.  
 ![](img/input_power_UBEC.jpg)
-![](img/odroid_jack.jpg)
 
 
 ## Sound
@@ -48,6 +47,7 @@ You will need:
 - 10cm of **Audio cable**
 - **Audio Jack connector**
 - **Large heat shrink**
+
 1) Strip and foliate the 2 sides of your **Audio cable**
 ![](img/audio_amp_input.jpg)  
 2) Soldering the **Audio Jack connector**  
@@ -76,8 +76,9 @@ You will need:
 You will need:
 - 2x15cm of **Black/red cable**
 - **Two speakers**
-- **Large heat shrink**  
-1) Strip and foliate the 2 sides of your **Black/red cable**
+- **Large heat shrink**
+
+1) Strip and foliate the **2 SIDES** *(i.e. not like in the following picture)* of your **black/red cable** 
 ![](img/speaker_etaimage.jpg)  
 2) Soldering it on your **Two speakers**  
 ![](img/speaker_soldering.jpg)
