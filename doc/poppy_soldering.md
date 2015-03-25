@@ -44,8 +44,15 @@ You will need:
 ## Sound
 
 ### Build a cable with stereo jack
-![](img/audio_jack.jpg)
-![](img/audio_amp_input.jpg)
+You will need:
+- 10cm of **Audio cable**
+- **Audio Jack connector**
+- **Large heat shrink**
+1) Strip and foliate the 2 sides of your **Audio cable**
+![](img/audio_amp_input.jpg)  
+2) Soldering the **Audio Jack connector**  
+![](img/audio_jack.jpg)  
+3) Do not use the **Audio Jack connector** cover (it will be too big for Poppy). Bend left and right contact of **Audio Jack connector** and cover it with **Large heat shrink**.
 ![](img/jack_thermo.jpg)
 
 
