@@ -23,7 +23,20 @@ You will need:
 
 
 ## Power Supply
-![](img/input_power_Molex_4P.jpg)
+You will need:
+- 30cm of **Black/red cable**
+- two **contact crimping**
+- a **molex connector 4P**
+- **Ubec**
+- **Small heat shrink**
+- **Large heat shrink**
+
+1) Strip and foliate the 2 sides of your **Black/red cable**  
+2) Crimp your **contact crimping**  
+3) Put a small tin layer in your **contact crimping**
+4) Place it in your **molex connector 4P**  
+![](img/input_power_Molex_4P.jpg)  
+5) Soldering the other side to the black and red cables of your **UBEC**. Do not forget to use 2 parts of **Small heat shrink** for each wire (black and red) and a **Large heat shrink** above.  
 ![](img/input_power_UBEC.jpg)
 ![](img/odroid_jack.jpg)
 
