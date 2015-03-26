@@ -1,15 +1,14 @@
 # Poppy-humanoid wiring tutorial
 
+This tutorial explain step by step how to wire your poppy-humanoid head.
 
-![](img/audio_amp_connection_back.jpg)
-![](img/audio_amp_connection_front.jpg)
-![](img/audio_amp_connection_zoom.jpg)
-![](img/back_connection.jpg)
-![](img/camera_connection.jpg)
-![](img/head_wire_hole.jpg)
-![](img/neck_bus_connection.jpg)
-![](img/neck_connection.jpg)
-![](img/pelvis_connection.jpg)
-![](img/SMPS2Dyn_connection.jpg)
-![](img/trunk_connection.jpg)
-![](img/usb2ax.jpg)
+##Motor network
+1) Take the two longest 3P robotis wire and plug it to your two USB2AX.  
+![](img/usb2ax.jpg)  
+2) Pass the other side into the hole back to the Poppy's head.  
+![](img/head_wire_hole.jpg)  
+3) Plug one in the robotis dispatcher into the neck.  
+![](img/neck_bus_connection.jpg)  
+4) Plug the other into the power board into the pelvis.  
+![](img/back_connection.jpg)  
+
