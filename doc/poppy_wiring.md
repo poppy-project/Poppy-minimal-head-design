@@ -12,3 +12,15 @@ This tutorial explain step by step how to wire your poppy-humanoid head.
 4) Plug the other into the power board into the pelvis.  
 ![](img/back_connection.jpg)  
 
+##Power and sound of the head
+1) Take your custom UBEC and pass the black/red wire with the 4P robotis connector into the hole back to the Poppy's head.  
+![](img/head_wire_hole.jpg)  
+2) Plug the 4p robotis connector in one of the robotis power board.  
+![](img/trunk_connection.jpg)  
+3) Put the other side of the UBEC and the odroid power jack on the 2P green screw terminal of your audio amplificator (red on VDD and black into GND).  
+![](img/audio_amp_connection_back.jpg)  
+4) Put the odroid audio jack on the 4p green screw terminal of your audio amplifier like this :  
+![](img/audio_amp_connection_zoom.jpg)  
+5) Add your speaker into blue screw terminal of your amplifier.  
+![](img/audio_amp_connection_front.jpg)  
+
