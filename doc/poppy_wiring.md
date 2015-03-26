@@ -24,3 +24,16 @@ This tutorial explain step by step how to wire your poppy-humanoid head.
 5) Add your speaker into blue screw terminal of your amplifier.  
 ![](img/audio_amp_connection_front.jpg)  
 
+##Final step
+1) Connect the audio jack on your odroid.  
+2) Mount your EMMC or SD memory card into your odroid.  
+3) Set your odroid into the head.  
+4) Plug your camera.  
+![](img/camera_connection.jpg)  
+4) Connect the power jack on your odroid.  
+5) Connect a usb hub on your odroid.  
+6) Plug all your usb devices (camera, 2xUSB2AX, wifi).  
+7) Close the head.  
+
+##Poppy software environement installation
+Please folow the [Poppy software installation readme](https://github.com/poppy-project/poppy_install)
