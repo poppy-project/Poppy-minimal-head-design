@@ -1,2 +1,2 @@
-*.SLDPRT binary
-*.SLDASM binary
+*.SLDPRT filter=lfs diff=lfs merge=lfs -text
+*.SLDASM filter=lfs diff=lfs merge=lfs -text
