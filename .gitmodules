@@ -12,7 +12,7 @@ url=https://gist.github.com/a1874e1246d7f858a097.git
 	branch = master
 [submodule "embedded_components/camera"]
 	path = embedded_components/camera
-	url = https://gist.github.com/b2f4e896bee72f8bc75d.git
+url=https://gist.github.com/matthieu-lapeyre/55e40807f042ce1bcf38
 	branch = master
 [submodule "embedded_components/display"]
 	path = embedded_components/display
