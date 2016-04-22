@@ -1,6 +1,6 @@
 [submodule "embedded_components/computer"]
 	path = embedded_components/computer
-	url = https://gist.github.com/f4b211aa231097953ad9.git
+	url = https://gist.github.com/1b4a19a85fc0c5d366d2.git
 	branch = master
 [submodule "embedded_components/controller"]
 	path = embedded_components/controller
