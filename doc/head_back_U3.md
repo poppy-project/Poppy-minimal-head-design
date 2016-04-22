@@ -32,3 +32,7 @@ After doing step 1, 2 and 3, you should obtain something similar to this:
 
 Plug the small power jack to the odroid U3:
 ![](img/assembly/U3-head-assembly-8.jpg)
+
+## Continue the assembly
+
+[You can go back to the general guidelines to continue the assembly.](head_assembly_instructions.md)

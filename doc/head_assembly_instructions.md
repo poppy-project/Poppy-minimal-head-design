@@ -95,7 +95,7 @@ For the next step, there are currently two versions depending on the computer yo
 ![](img/assembly/diff_U3-XU4.jpg)
 
 - [You have the version with Odroid U3 >>>](head_back_U3.md)
-- [You have the version with Odroid XU4 >>>](head_back_XU4.md)
+- [You have the version with Odroid XU4 >>>](head_back_xu4.md)
 
 
 ## Step 7: assemble the head with the body

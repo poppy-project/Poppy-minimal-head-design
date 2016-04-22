@@ -27,7 +27,7 @@ Note: the one on back of the head is pretty annoying to screw, sorry for that...
 
 ![](img/assembly/XU4-xu4-3.jpg)
 
-## Connect cables
+## Step 3: Connect cables
 Now you have fixed all components, you can plug the cables.
 
 There is only 2 USB port and if you want to plug the camera you need 3 ports. Therefore you will have to add a USB hub.
