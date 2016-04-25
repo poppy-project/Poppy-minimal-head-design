@@ -6,14 +6,6 @@ This page will guide you through the process of assembling the head of your Popp
 
 Ensure you have all components required in the [Bill Of Materials](BOM.md)
 
-**Fixings:**
-- 2x Wrench Bolt M2.5*4
-- 2x Wrench Bolt M2.5*6
-- 1x Screw M3
-- 14x Screw M2x5mm
-- 10x Nut M2.5
-- 16x Nut M2
-
 ## Step 1: Put hex nuts in the head face
 
 Prepare the *head_face* part for assembly by putting all hex nuts as indicated in the following illustration:
