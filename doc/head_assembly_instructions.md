@@ -5,6 +5,8 @@ This page will guide you through the process of assembling the head of your Popp
 ## STEP 0:
 
 Ensure you have all components required in the [Bill Of Materials](BOM.md)
+The Odroid is normally shipped with a eMMC module with Ubuntu 1.14
+already flashed (it should have a red sticker on it). Else you should start by flashing it using [the poppy documentation](http://docs.poppy-project.org/en/installation/install-a-poppy-board.html)
 
 ## Step 1: Put hex nuts in the head face
 
@@ -118,9 +120,14 @@ There is 3 holes, one on each side and one on the top.
 
 On both version (U3 & XU4), to connect the Poppy's head with the body, you have to:
 
-- connect the 2 ways power wire (5V) with a 4 pins connector to the upper body SMPS2Dynamixel.
+- connect the power wire (5V) with a 4 pins connector to the upper body SMPS2Dynamixel.
+![](img/trunk_connection.jpg)
 - connect the short 3 ways wire (coming from one of the USB2AX) to an available 3 pins slot at the base of the neck.
+![](img/neck_bus_connection.jpg)
 - connect the long 3 ways wire (coming from the second USB2AX) to an available 3 pins slot on the pelvis.
+![](img/back_connection.jpg)
+
+Now you should have something like that :
 ![](img/assembly/U3-head-assembly-11.jpg)
 
 On the XU4 version, you have in addtion to plug the jack connector on the Odroid port.

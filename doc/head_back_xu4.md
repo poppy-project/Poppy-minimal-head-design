@@ -12,6 +12,8 @@ Put 2 M2.5 hex nuts in the holes at the bottom left:
 With 2x M2.5x6mm bolts you can now fix the amplifier on the head_back part:
 ![](img/assembly/XU4-audio-amp-2.jpg)
 
+Now you amplifier is ok. Pass the handmade jack wire on the hole back to the head_back part.
+
 **NOTE: Unfortunately, the Odroid XU4 does not have audio output. If you want to use the audio, you will have to use a USB dongle and connect the audio jack to it.**
 
 ## Step 2: Fix the XU4 in the head
@@ -35,7 +37,7 @@ There is only 2 USB port and if you want to plug the camera you need 3 ports. Th
 ![](img/assembly/XU4-hub-1.jpg)
 
 - plug the usb hub on one port
-- plug the 3 usb devices on it
+- plug the 3 usb devices on it (2 x USB2AX, Camera)
 - connect the long 3 ways cable to one of the USB2AX and make it go through the hole at the back of the head
 - connect the shorter 3 ways cable between the 2nd USB2AX and the Dynamixel AX12
 - connect a 20cm 3 ways cable to the Dynamixel AX12 and make it go through the hole at the back of the head

@@ -19,11 +19,11 @@ You need to put 2 hex nuts on the hex holes and use 2 M2.5x8mm bolt to screws th
 You have now to plug the USB devices. There are 3 availables port on the odroid. If you want both wifi and camera please add a small usb hub.
 ![](img/assembly/U3-hub-1.jpg)
 
-- plug all usb devices
+- plug all usb devices( 2x USB2AX, camera) using the HUB
 - connect the long 3 ways cable to one of the USB2AX and make it go through the hole at the back of the head
 - connect the shorter 3 ways cable between the 2nd USB2AX and the Dynamixel AX12
 - connect a 20cm 3 ways cable to the Dynamixel AX12 and make it go through the hole at the back of the head
-![](img/assembly/U3-hub-2.jpg)
+![](img/head_wire_hole.jpg)
 
 ### Step 4: Connect the power of the Odroid
 
