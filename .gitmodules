@@ -18,6 +18,3 @@ url=https://gist.github.com/matthieu-lapeyre/55e40807f042ce1bcf38
 	path = embedded_components/display
 	url = https://gist.github.com/5c22842eb3abc8b4a68a.git
 	branch = master
-[submodule "embedded_components/imu"]
-	path = embedded_components/imu
-	url = https://github.com/matthieu-lapeyre/9DOF_Razor_IMU
